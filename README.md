@@ -1,4 +1,4 @@
-# Social Media Engagement Rate Prediction
+# Social Media Engagement Rate Prediction  
 
 This repository contains a machine learning project focused on predicting the engagement rate of social media posts. The model combines numeric features, categorical variables, and textual content to accurately estimate how much engagement (likes, shares, comments, etc.) a post is likely to receive.
 
